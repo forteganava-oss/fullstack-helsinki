@@ -30,7 +30,3 @@ sequenceDiagram
     Note right of browser: Rendering notes in the browser
 ```
 
-
-
-
-
