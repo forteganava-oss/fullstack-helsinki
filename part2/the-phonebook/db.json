@@ -1,0 +1,30 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "23243",
+      "id": "1"
+    },
+    {
+      "name": "Fernando Ortega Nava",
+      "number": "234 3525 234",
+      "id": "f6tPfDALVIM"
+    },
+    {
+      "name": "Blanca Sainz",
+      "number": "892 345",
+      "id": "-1GX0ZHBNKI"
+    },
+    {
+      "name": "",
+      "number": "",
+      "id": "EVtuQxCiKcY"
+    },
+    {
+      "name": "Pepe Piscinas",
+      "number": "234 3525 234",
+      "id": "uN-oJPj4CYA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
